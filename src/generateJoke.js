@@ -1,5 +1,5 @@
 function generateJoke(){
-    return "I don't trust stairs, they're always upto something @08:11."
+    return "I don't trust stairs, they're always upto something."
 }
 
 export default generateJoke
